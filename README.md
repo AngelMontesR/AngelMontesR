@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angelmontesr" alt="angelmontesr" /></a> </p>
 
-- 🌱 I’m currently learning **CSS3,Sass,Tailwind,C#, .NET**
+- 🌱 I’m currently learning **CSS3,Sass,Tailwind,Flutter,Dart
 
 - 👨‍💻 All of my projects are available at [https://github.com/AngelMontesR](https://github.com/AngelMontesR)
 
